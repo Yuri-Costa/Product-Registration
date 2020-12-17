@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Carrinho de Compra/1.0.0": {
+        "runtime": {
+          "Carrinho de Compra.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Carrinho de Compra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
